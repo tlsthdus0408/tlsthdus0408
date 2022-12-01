@@ -1,2 +1,3 @@
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsthdus0408&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsthdus0408&layout=compact&theme=tokyonight)
+<img src="https://img.shields.io/badge/html-red?style=flat&logo=html&logoColor=E34F26/>
